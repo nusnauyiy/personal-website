@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: rgb(255, 255, 255);
 }
 
 .App-logo {
@@ -24,6 +25,12 @@
   color: white;
 }
 
+.centered {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .App-link {
   color: #61dafb;
 }
@@ -35,4 +42,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+li {
+  margin-bottom: 1em;
 }
