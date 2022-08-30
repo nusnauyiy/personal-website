@@ -1,0 +1,107 @@
+{
+    "csProject": [
+        {
+            "name": "Bear Buddies",
+            "description": "nwHacks 2020: pet-nurturing app awarded Honourable Mention",
+            "techStack": ["React.js", "Firebase", "Zdog"],
+            "link": "https://github.com/n-lina/bear-buddies",
+            "collaborators": [],
+            "img": "bear0.png"
+        },
+        {
+            "name": "Pull Request Parser",
+            "description": "UBC D-lab: GitHub pull request data parser for HCI project",
+            "techStack": ["PythonL"],
+            "link": "https://github.com/ubcdlab/pull-requests-parser",
+            "collaborators": [],
+            "img": "json_unsplash.jpg"
+        },
+        {
+            "name": "Oogway Database",
+            "description": "CPSC 304 project: property management database",
+            "techStack": ["PHP", "MySQL"],
+            "link": "https://github.com/mishsoup/CondoManagementDB",
+            "collaborators": [],
+            "img": "oogway0.png"
+        },
+        {
+            "name": "Invoice Generator",
+            "description": "manage shipment data and generates PDF invoice for TopWill, Inc.",
+            "techStack": ["Java"],
+            "link": "https://github.com/nusnauyiy/InvoiceGenerator",
+            "collaborators": [],
+            "img": "invoice.png"
+        },
+        {
+            "name": "My Music Player",
+            "description": "CPSC 210 project: music player desktop app",
+            "techStack": ["Java"],
+            "link": "https://github.com/nusnauyiy/MyMusicPlayer",
+            "collaborators": [],
+            "img": "player.png"
+        },
+        {
+            "name": "Pulsar Classifier",
+            "description": "DSCI 100: KNN model that distinguishes pulsar signals from noises",
+            "techStack": ["R", "Machine Learning"],
+            "link": "https://github.com/nusnauyiy/DSCI100_project",
+            "collaborators": [],
+            "img": "pulsar.png"
+        },
+        {
+            "name": "Insight UBC",
+            "description": "CPSC 310: end-to-end web application querying UBC courses and room data",
+            "techStack": ["TypeScript"],
+            "link": "",
+            "collaborators": [],
+            "img": "insight.png"
+        },
+        {
+            "name": "Contaminated",
+            "description": "UBC Game Dev: top-down shooting RPG",
+            "techStack": ["Unity", "C#"],
+            "link": "https://github.com/RyanReiss/agda-pt3",
+            "collaborators": [],
+            "img": "contaminated0.png"
+        },
+        {
+            "name": "Prometheus: Fire-Stealer",
+            "description": "BC Game Jam 2020: 2D platform game",
+            "techStack": ["Unity", "C#"],
+            "link": "",
+            "collaborators": [],
+            "img": "prometheus0.png"
+        },
+        {
+            "name": "Planner Planter",
+            "description": "cmf-f 2020: Mobile to-do list application with flower-nurturing features",
+            "techStack": ["Java", "Android Studio"],
+            "link": "https://github.com/rainacao/cmd-f-2020new",
+            "collaborators": [],
+            "img": "planter.png"
+        },
+        {
+            "name": "Cat Game",
+            "description": "Mobile game application with four cat-themed games",
+            "techStack": ["Java", "Android Studio"],
+            "link": "https://github.com/nusnauyiy/BreakoutCatGamenew",
+            "collaborators": [],
+            "img": "cat0.png"
+        }, {
+            "name": "Image Manipulator",
+            "description": "PCSC 221: Command line app that applies different effect to images",
+            "techStack": ["C++"],
+            "link": "https://github.com/nusnauyiy/Image-Manipulator",
+            "collaborators": [],
+            "img": "png.png"
+        },
+        {
+            "name": "Slap Jack",
+            "description": "Web-based PvP slap-jack card game",
+            "techStack": ["HTML", "JavaScript"],
+            "link": "https://github.com/nusnauyiy/slap-jack",
+            "collaborators": [],
+            "img": "jack.png"
+        }
+    ]
+}

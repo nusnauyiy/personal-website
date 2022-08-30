@@ -1,0 +1,42 @@
+{
+  "software": [
+    {
+      "organization": "HubSpot, Inc.",
+      "title": "Frontend Software Engineer Intern",
+      "startDate": "Jun 2022",
+      "endDate": "Present"
+    },
+    {
+      "organization": "Splunk, Inc.",
+      "title": "Software Engineer Co-op",
+      "startDate": "Jan 2022",
+      "endDate": "Apr 2022"
+    },
+    {
+      "organization": "Tasktop Technologies",
+      "title": "Software Engineer Co-op",
+      "startDate": "Jan 2021",
+      "endDate": "Aug 2021"
+    }
+  ],
+  "academia": [
+    {
+      "organization": "UBC Department of Computer Science",
+      "title": "Software Engineering Researcher",
+      "startDate": "Sep 2022",
+      "endDate": "Present"
+    },
+    {
+      "organization": "UBC Department of Computer Science",
+      "title": "HCI Research Assistant",
+      "startDate": "Sep 2021",
+      "endDate": "Apr 2022"
+    },
+    {
+      "organization": "UBC Department of Computer Science",
+      "title": "Teaching Assistant for Software Construction and Software Engineer",
+      "startDate": "Sep 2020",
+      "endDate": "Present"
+    }
+  ]
+}

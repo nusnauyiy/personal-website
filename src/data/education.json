@@ -1,0 +1,16 @@
+{
+    "degrees": [
+        {
+            "institution": "University of British Columbia",
+            "degree": "Bachelor of Science, Honours Computer Science and Statistics Minor",
+            "graduated": false,
+            "graduation": "May 2023"
+        },
+        {
+            "institution": "William Fremd High School",
+            "degree": "High School Diploma",
+            "graduated": true,
+            "graduation": "May 2019"
+        }
+    ]
+}
