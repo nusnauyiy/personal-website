@@ -18,7 +18,15 @@ const theme = createTheme({
       color: "white",
       textShadow: "0px 15px 20px #535",
     },
+    h2: {
+      fontFamily: ["Lobster", "cursive"].join(","),
+      color: "white",
+      textShadow: "0px 15px 20px #535",
+    },
     h3: {
+      fontFamily: ["Lobster", "cursive"].join(","),
+    },
+    h4: {
       fontFamily: ["Lobster", "cursive"].join(","),
     },
   },
@@ -58,7 +66,7 @@ function App() {
           <Header>
             <motion.div
               className='centered'
-              style={{ padding: "10%", zoom: "2" }}
+              style={{ paddingTop: "10%", zoom: "2" }}
               animate={{
                 opacity: [0, 1, 0],
                 y: [0, 5, 20]
