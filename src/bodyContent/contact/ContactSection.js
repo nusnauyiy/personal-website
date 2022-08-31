@@ -4,9 +4,28 @@ import Box from "@mui/material/Box";
 import TextField from "@mui/material/TextField";
 import contactUs from "./../../img/undraw/undraw_contact_us.svg";
 import Grid from "@mui/material/Grid";
-import { Button, FormControl, Typography } from "@mui/material";
+import { Button, FormControl, Typography, Link } from "@mui/material";
 import { useState } from "react";
 import { useMediaQuery } from "react-responsive";
+import LinkedInIcon from "@mui/icons-material/LinkedIn";
+import GitHubIcon from "@mui/icons-material/GitHub";
+import EmailIcon from "@mui/icons-material/Email";
+
+const ContactLinks = () => {
+  return (
+    <div>
+      <Link style={{ margin: "2%" }} href='https://www.linkedin.com/in/y-suzette-sun/'>
+        <LinkedInIcon />
+      </Link>
+      <Link style={{ margin: "2%" }} href='https://github.com/nusnauyiy'>
+        <GitHubIcon />
+      </Link>
+      <Link style={{ margin: "2%" }} href='mailto:y.suzette.sun@outlook.com'>
+        <EmailIcon />
+      </Link>
+    </div>
+  );
+};
 
 const ContactForm = () => {
   const [submitted, setSubmitted] = useState(false);
@@ -20,7 +39,10 @@ const ContactForm = () => {
     <Grid container spacing={2}>
       <Grid item xs={isMobile ? 12 : 5}>
         {submitted ? (
-          <Typography variant="h5"> Thank you! You will hear from me soon!</Typography>
+          <Typography variant='h5'>
+            {" "}
+            Thank you! You will hear from me soon!
+          </Typography>
         ) : (
           <Box
             component='form'
@@ -77,6 +99,9 @@ export const ContactSection = () => {
     >
       <BodySection header={"Contact"} maxWidth='md'>
         <ContactForm />
+        <br />
+        <br />
+        <ContactLinks />
       </BodySection>
     </div>
   );

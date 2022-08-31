@@ -97,7 +97,7 @@
         },
         {
             "name": "Slap Jack",
-            "description": "Web-based PvP slap-jack card game",
+            "description": "Local PvP slap-jack card game",
             "techStack": ["HTML", "JavaScript"],
             "link": "https://github.com/nusnauyiy/slap-jack",
             "collaborators": [],
